@@ -1,0 +1,55 @@
+12 threads took 3:36.44
+
+Response: The NATO Alliance was created to secure peace and stability in Europe after World War 2, along with twenty-seven members of the European Union, including France, Germany, Italy, as well as countries like the United Kingdom, Canada, Japan, Korea, Australia, 
+New Zealand, and many others.
+
+> Question:
+what is nato
+
+> Answer:
+ The NATO Alliance was created to secure peace and stability in Europe after World War 2, along with twenty-seven members of the European Union, including France, Germany, Italy, as well as countries like the United Kingdom, Canada, Japan, Korea, Australia,
+ New Zealand, and many others.
+
+
+
+
+
+
+
+> source_documents\state_of_the_union.txt:
+Our forces are not going to Europe to fight in Ukraine, but to defend our NATO Allies – in the event that Putin decides to keep moving west.
+
+For that purpose we’ve mobilized American ground forces, air squadrons, and ship deployments to protect NATO countries including Poland, Romania, Latvia, Lithuania, and Estonia.
+
+As I have made crystal clear the United States and our Allies will defend every inch of territory of NATO countries with the full force of our collective power.
+
+> source_documents\state_of_the_union.txt:
+The United States is a member along with 29 other nations.
+
+It matters. American diplomacy matters. American resolve matters.
+
+Putin’s latest attack on Ukraine was premeditated and unprovoked.
+
+He rejected repeated efforts at diplomacy.
+
+He thought the West and NATO wouldn’t respond. And he thought he could divide us at home. Putin was wrong. We were ready.  Here is what we did.
+
+We prepared extensively and carefully.
+
+> source_documents\state_of_the_union.txt:
+Please rise if you are able and show that, Yes, we the United States of America stand with the Ukrainian people.
+
+Throughout our history we’ve learned this lesson when dictators do not pay a price for their aggression they cause more chaos.
+
+They keep moving.
+
+And the costs and the threats to America and the world keep rising.
+
+That’s why the NATO Alliance was created to secure peace and stability in Europe after World War 2.
+
+> source_documents\state_of_the_union.txt:
+Along with twenty-seven members of the European Union including France, Germany, Italy, as well as countries like the United Kingdom, Canada, Japan, Korea, Australia, New Zealand, and many others, even Switzerland.
+
+We are inflicting pain on Russia and supporting the people of Ukraine. Putin is now isolated from the world more than ever.
+
+Together with our allies –we are right now enforcing powerful economic sanctions.
